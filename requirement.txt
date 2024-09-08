@@ -1,0 +1,10 @@
+Task 3
+Short description- Building a sign language detection
+
+Libraries Required:-
+OpenCV
+NumPy
+Maths
+Time
+
+Dataset used in this model is the user own data when compiling the code. No external dataset is used.
